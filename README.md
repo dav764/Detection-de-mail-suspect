@@ -6,8 +6,8 @@ les menaces et le terrorisme. Le harcèlement en ligne, qui est devenu le crime 
 Le nombre de cybercrimes mettant la vie en danger a augmenté considérablement et a été reconnu comme une menace sociale.
 
 L'ensemble de données sur les tweets suspects est collecté à partir de Twitter et contient près de 60 000 tweets. Si nous parlons de suspect, c'est un terme très large. Le marquage de cet ensemble de données est basé sur trois grandes catégories qui sont la cyberintimidation, le terrorisme et les menaces. Donc
-# 0 = suspect
-# 1 = non suspect
+ 0 = suspect
+ 1 = non suspect
 
-# Colonnes
+ Colonnes
 la colonne de message contient des tweets et la colonne d'étiquette contient des balises
